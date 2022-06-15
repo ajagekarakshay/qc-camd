@@ -1,0 +1,2871 @@
+Loading QM9 dataset.
+Reading SDF
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con1
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con2
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con4
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+Skipping con5
+(4, 16)
+===========================================================================
+ BARON version 20.4.14. Built: WIN-64 Tue Apr 14 21:23:22 EDT 2020
+
+ BARON is a product of The Optimization Firm.
+ For information on BARON, see https://minlp.com/about-baron
+ Licensee: 
+ Saud Alrasheed at University of Illinois at Urbana-Champaign, sauda2@illinois.e
+ du.
+ Changing option LPSol to 8 (CLP) and continuing.
+
+ If you use this software, please cite publications from
+ https://minlp.com/baron-publications, such as: 
+
+ Kilinc, M. and N. V. Sahinidis, Exploiting integrality in the global
+ optimization of mixed-integer nonlinear programming problems in BARON,
+ Optimization Methods and Software, 33, 540-562, 2018.
+===========================================================================
+ This BARON run may utilize the following subsolver(s)
+ For LP/MIP/QP: CLP/CBC                                         
+ For NLP: IPOPT, FILTERSD, FILTERSQP
+===========================================================================
+ Doing local search
+ Solving bounding LP
+ Problem solved during preprocessing
+ Lower bound is 0.100000000000E+052
+ Problem is infeasible
+
+ Cleaning up
+
+                         *** Normal completion ***            
+
+                       *** Problem is infeasible ***
+
+ Wall clock time:                     0.14
+ Total CPU time used:                 0.08
+
+ Total no. of BaR iterations:      -1
+ Best solution found at node:      -3
+ Max. no. of nodes in memory:       0
+ 
+ All done
+===========================================================================
+ Unable to find/load CPLEX library cplex12100.dll.
+ Unable to find/load CPLEX library cplex1290.dll.
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,1]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,2]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[0,3]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,0]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,2]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[1,3]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,0]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,1]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[2,3]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,0]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,1]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: a[3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object a[3,2]
+ERROR: evaluating object as numeric value: mlp[0,0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,0]
+ERROR: evaluating object as numeric value: mlp[0,0,1,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,1]
+ERROR: evaluating object as numeric value: mlp[0,0,1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,2]
+ERROR: evaluating object as numeric value: mlp[0,0,1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,3]
+ERROR: evaluating object as numeric value: mlp[0,0,1,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,4]
+ERROR: evaluating object as numeric value: mlp[0,0,1,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,5]
+ERROR: evaluating object as numeric value: mlp[0,0,1,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,6]
+ERROR: evaluating object as numeric value: mlp[0,0,1,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,7]
+ERROR: evaluating object as numeric value: mlp[0,0,1,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,8]
+ERROR: evaluating object as numeric value: mlp[0,0,1,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,9]
+ERROR: evaluating object as numeric value: mlp[0,0,1,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,10]
+ERROR: evaluating object as numeric value: mlp[0,0,1,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,11]
+ERROR: evaluating object as numeric value: mlp[0,0,1,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,12]
+ERROR: evaluating object as numeric value: mlp[0,0,1,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,13]
+ERROR: evaluating object as numeric value: mlp[0,0,1,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,14]
+ERROR: evaluating object as numeric value: mlp[0,0,1,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,15]
+ERROR: evaluating object as numeric value: mlp[0,0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,0]
+ERROR: evaluating object as numeric value: mlp[0,0,2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,1]
+ERROR: evaluating object as numeric value: mlp[0,0,2,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,2]
+ERROR: evaluating object as numeric value: mlp[0,0,2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,3]
+ERROR: evaluating object as numeric value: mlp[0,0,2,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,4]
+ERROR: evaluating object as numeric value: mlp[0,0,2,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,5]
+ERROR: evaluating object as numeric value: mlp[0,0,2,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,6]
+ERROR: evaluating object as numeric value: mlp[0,0,2,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,7]
+ERROR: evaluating object as numeric value: mlp[0,0,2,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,8]
+ERROR: evaluating object as numeric value: mlp[0,0,2,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,9]
+ERROR: evaluating object as numeric value: mlp[0,0,2,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,10]
+ERROR: evaluating object as numeric value: mlp[0,0,2,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,11]
+ERROR: evaluating object as numeric value: mlp[0,0,2,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,12]
+ERROR: evaluating object as numeric value: mlp[0,0,2,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,13]
+ERROR: evaluating object as numeric value: mlp[0,0,2,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,14]
+ERROR: evaluating object as numeric value: mlp[0,0,2,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,15]
+ERROR: evaluating object as numeric value: mlp[0,0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,0]
+ERROR: evaluating object as numeric value: mlp[0,0,3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,1]
+ERROR: evaluating object as numeric value: mlp[0,0,3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,2]
+ERROR: evaluating object as numeric value: mlp[0,0,3,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,3]
+ERROR: evaluating object as numeric value: mlp[0,0,3,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,4]
+ERROR: evaluating object as numeric value: mlp[0,0,3,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,5]
+ERROR: evaluating object as numeric value: mlp[0,0,3,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,6]
+ERROR: evaluating object as numeric value: mlp[0,0,3,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,7]
+ERROR: evaluating object as numeric value: mlp[0,0,3,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,8]
+ERROR: evaluating object as numeric value: mlp[0,0,3,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,9]
+ERROR: evaluating object as numeric value: mlp[0,0,3,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,10]
+ERROR: evaluating object as numeric value: mlp[0,0,3,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,11]
+ERROR: evaluating object as numeric value: mlp[0,0,3,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,12]
+ERROR: evaluating object as numeric value: mlp[0,0,3,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,13]
+ERROR: evaluating object as numeric value: mlp[0,0,3,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,14]
+ERROR: evaluating object as numeric value: mlp[0,0,3,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,15]
+ERROR: evaluating object as numeric value: mlp[0,1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,0]
+ERROR: evaluating object as numeric value: mlp[0,1,0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,1]
+ERROR: evaluating object as numeric value: mlp[0,1,0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,2]
+ERROR: evaluating object as numeric value: mlp[0,1,0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,3]
+ERROR: evaluating object as numeric value: mlp[0,1,0,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,4]
+ERROR: evaluating object as numeric value: mlp[0,1,0,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,5]
+ERROR: evaluating object as numeric value: mlp[0,1,0,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,6]
+ERROR: evaluating object as numeric value: mlp[0,1,0,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,7]
+ERROR: evaluating object as numeric value: mlp[0,1,0,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,8]
+ERROR: evaluating object as numeric value: mlp[0,1,0,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,9]
+ERROR: evaluating object as numeric value: mlp[0,1,0,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,10]
+ERROR: evaluating object as numeric value: mlp[0,1,0,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,11]
+ERROR: evaluating object as numeric value: mlp[0,1,0,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,12]
+ERROR: evaluating object as numeric value: mlp[0,1,0,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,13]
+ERROR: evaluating object as numeric value: mlp[0,1,0,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,14]
+ERROR: evaluating object as numeric value: mlp[0,1,0,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,15]
+ERROR: evaluating object as numeric value: mlp[0,1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,0]
+ERROR: evaluating object as numeric value: mlp[0,1,2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,1]
+ERROR: evaluating object as numeric value: mlp[0,1,2,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,2]
+ERROR: evaluating object as numeric value: mlp[0,1,2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,3]
+ERROR: evaluating object as numeric value: mlp[0,1,2,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,4]
+ERROR: evaluating object as numeric value: mlp[0,1,2,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,5]
+ERROR: evaluating object as numeric value: mlp[0,1,2,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,6]
+ERROR: evaluating object as numeric value: mlp[0,1,2,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,7]
+ERROR: evaluating object as numeric value: mlp[0,1,2,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,8]
+ERROR: evaluating object as numeric value: mlp[0,1,2,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,9]
+ERROR: evaluating object as numeric value: mlp[0,1,2,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,10]
+ERROR: evaluating object as numeric value: mlp[0,1,2,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,11]
+ERROR: evaluating object as numeric value: mlp[0,1,2,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,12]
+ERROR: evaluating object as numeric value: mlp[0,1,2,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,13]
+ERROR: evaluating object as numeric value: mlp[0,1,2,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,14]
+ERROR: evaluating object as numeric value: mlp[0,1,2,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,15]
+ERROR: evaluating object as numeric value: mlp[0,1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,0]
+ERROR: evaluating object as numeric value: mlp[0,1,3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,1]
+ERROR: evaluating object as numeric value: mlp[0,1,3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,2]
+ERROR: evaluating object as numeric value: mlp[0,1,3,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,3]
+ERROR: evaluating object as numeric value: mlp[0,1,3,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,4]
+ERROR: evaluating object as numeric value: mlp[0,1,3,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,5]
+ERROR: evaluating object as numeric value: mlp[0,1,3,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,6]
+ERROR: evaluating object as numeric value: mlp[0,1,3,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,7]
+ERROR: evaluating object as numeric value: mlp[0,1,3,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,8]
+ERROR: evaluating object as numeric value: mlp[0,1,3,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,9]
+ERROR: evaluating object as numeric value: mlp[0,1,3,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,10]
+ERROR: evaluating object as numeric value: mlp[0,1,3,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,11]
+ERROR: evaluating object as numeric value: mlp[0,1,3,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,12]
+ERROR: evaluating object as numeric value: mlp[0,1,3,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,13]
+ERROR: evaluating object as numeric value: mlp[0,1,3,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,14]
+ERROR: evaluating object as numeric value: mlp[0,1,3,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,15]
+ERROR: evaluating object as numeric value: mlp[0,2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,0]
+ERROR: evaluating object as numeric value: mlp[0,2,0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,1]
+ERROR: evaluating object as numeric value: mlp[0,2,0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,2]
+ERROR: evaluating object as numeric value: mlp[0,2,0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,3]
+ERROR: evaluating object as numeric value: mlp[0,2,0,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,4]
+ERROR: evaluating object as numeric value: mlp[0,2,0,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,5]
+ERROR: evaluating object as numeric value: mlp[0,2,0,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,6]
+ERROR: evaluating object as numeric value: mlp[0,2,0,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,7]
+ERROR: evaluating object as numeric value: mlp[0,2,0,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,8]
+ERROR: evaluating object as numeric value: mlp[0,2,0,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,9]
+ERROR: evaluating object as numeric value: mlp[0,2,0,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,10]
+ERROR: evaluating object as numeric value: mlp[0,2,0,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,11]
+ERROR: evaluating object as numeric value: mlp[0,2,0,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,12]
+ERROR: evaluating object as numeric value: mlp[0,2,0,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,13]
+ERROR: evaluating object as numeric value: mlp[0,2,0,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,14]
+ERROR: evaluating object as numeric value: mlp[0,2,0,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,15]
+ERROR: evaluating object as numeric value: mlp[0,2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,0]
+ERROR: evaluating object as numeric value: mlp[0,2,1,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,1]
+ERROR: evaluating object as numeric value: mlp[0,2,1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,2]
+ERROR: evaluating object as numeric value: mlp[0,2,1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,3]
+ERROR: evaluating object as numeric value: mlp[0,2,1,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,4]
+ERROR: evaluating object as numeric value: mlp[0,2,1,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,5]
+ERROR: evaluating object as numeric value: mlp[0,2,1,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,6]
+ERROR: evaluating object as numeric value: mlp[0,2,1,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,7]
+ERROR: evaluating object as numeric value: mlp[0,2,1,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,8]
+ERROR: evaluating object as numeric value: mlp[0,2,1,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,9]
+ERROR: evaluating object as numeric value: mlp[0,2,1,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,10]
+ERROR: evaluating object as numeric value: mlp[0,2,1,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,11]
+ERROR: evaluating object as numeric value: mlp[0,2,1,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,12]
+ERROR: evaluating object as numeric value: mlp[0,2,1,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,13]
+ERROR: evaluating object as numeric value: mlp[0,2,1,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,14]
+ERROR: evaluating object as numeric value: mlp[0,2,1,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,15]
+ERROR: evaluating object as numeric value: mlp[0,2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,0]
+ERROR: evaluating object as numeric value: mlp[0,2,3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,1]
+ERROR: evaluating object as numeric value: mlp[0,2,3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,2]
+ERROR: evaluating object as numeric value: mlp[0,2,3,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,3]
+ERROR: evaluating object as numeric value: mlp[0,2,3,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,4]
+ERROR: evaluating object as numeric value: mlp[0,2,3,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,5]
+ERROR: evaluating object as numeric value: mlp[0,2,3,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,6]
+ERROR: evaluating object as numeric value: mlp[0,2,3,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,7]
+ERROR: evaluating object as numeric value: mlp[0,2,3,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,8]
+ERROR: evaluating object as numeric value: mlp[0,2,3,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,9]
+ERROR: evaluating object as numeric value: mlp[0,2,3,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,10]
+ERROR: evaluating object as numeric value: mlp[0,2,3,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,11]
+ERROR: evaluating object as numeric value: mlp[0,2,3,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,12]
+ERROR: evaluating object as numeric value: mlp[0,2,3,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,13]
+ERROR: evaluating object as numeric value: mlp[0,2,3,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,14]
+ERROR: evaluating object as numeric value: mlp[0,2,3,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,15]
+ERROR: evaluating object as numeric value: mlp[0,3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,0]
+ERROR: evaluating object as numeric value: mlp[0,3,0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,1]
+ERROR: evaluating object as numeric value: mlp[0,3,0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,2]
+ERROR: evaluating object as numeric value: mlp[0,3,0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,3]
+ERROR: evaluating object as numeric value: mlp[0,3,0,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,4]
+ERROR: evaluating object as numeric value: mlp[0,3,0,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,5]
+ERROR: evaluating object as numeric value: mlp[0,3,0,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,6]
+ERROR: evaluating object as numeric value: mlp[0,3,0,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,7]
+ERROR: evaluating object as numeric value: mlp[0,3,0,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,8]
+ERROR: evaluating object as numeric value: mlp[0,3,0,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,9]
+ERROR: evaluating object as numeric value: mlp[0,3,0,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,10]
+ERROR: evaluating object as numeric value: mlp[0,3,0,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,11]
+ERROR: evaluating object as numeric value: mlp[0,3,0,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,12]
+ERROR: evaluating object as numeric value: mlp[0,3,0,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,13]
+ERROR: evaluating object as numeric value: mlp[0,3,0,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,14]
+ERROR: evaluating object as numeric value: mlp[0,3,0,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,15]
+ERROR: evaluating object as numeric value: mlp[0,3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,0]
+ERROR: evaluating object as numeric value: mlp[0,3,1,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,1]
+ERROR: evaluating object as numeric value: mlp[0,3,1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,2]
+ERROR: evaluating object as numeric value: mlp[0,3,1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,3]
+ERROR: evaluating object as numeric value: mlp[0,3,1,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,4]
+ERROR: evaluating object as numeric value: mlp[0,3,1,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,5]
+ERROR: evaluating object as numeric value: mlp[0,3,1,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,6]
+ERROR: evaluating object as numeric value: mlp[0,3,1,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,7]
+ERROR: evaluating object as numeric value: mlp[0,3,1,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,8]
+ERROR: evaluating object as numeric value: mlp[0,3,1,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,9]
+ERROR: evaluating object as numeric value: mlp[0,3,1,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,10]
+ERROR: evaluating object as numeric value: mlp[0,3,1,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,11]
+ERROR: evaluating object as numeric value: mlp[0,3,1,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,12]
+ERROR: evaluating object as numeric value: mlp[0,3,1,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,13]
+ERROR: evaluating object as numeric value: mlp[0,3,1,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,14]
+ERROR: evaluating object as numeric value: mlp[0,3,1,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,15]
+ERROR: evaluating object as numeric value: mlp[0,3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,0]
+ERROR: evaluating object as numeric value: mlp[0,3,2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,1]
+ERROR: evaluating object as numeric value: mlp[0,3,2,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,2]
+ERROR: evaluating object as numeric value: mlp[0,3,2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,3]
+ERROR: evaluating object as numeric value: mlp[0,3,2,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,4]
+ERROR: evaluating object as numeric value: mlp[0,3,2,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,5]
+ERROR: evaluating object as numeric value: mlp[0,3,2,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,6]
+ERROR: evaluating object as numeric value: mlp[0,3,2,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,7]
+ERROR: evaluating object as numeric value: mlp[0,3,2,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,8]
+ERROR: evaluating object as numeric value: mlp[0,3,2,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,9]
+ERROR: evaluating object as numeric value: mlp[0,3,2,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,10]
+ERROR: evaluating object as numeric value: mlp[0,3,2,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,11]
+ERROR: evaluating object as numeric value: mlp[0,3,2,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,12]
+ERROR: evaluating object as numeric value: mlp[0,3,2,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,13]
+ERROR: evaluating object as numeric value: mlp[0,3,2,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,14]
+ERROR: evaluating object as numeric value: mlp[0,3,2,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,15]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,1,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,2,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[0,3,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,0,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,2,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[1,3,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,0,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,1,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[2,3,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,0,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,1,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: e[3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object e[3,2,0]
+ERROR: evaluating object as numeric value: mlp[0,0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,0]
+ERROR: evaluating object as numeric value: mlp[0,0,1,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,1]
+ERROR: evaluating object as numeric value: mlp[0,0,1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,2]
+ERROR: evaluating object as numeric value: mlp[0,0,1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,3]
+ERROR: evaluating object as numeric value: mlp[0,0,1,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,4]
+ERROR: evaluating object as numeric value: mlp[0,0,1,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,5]
+ERROR: evaluating object as numeric value: mlp[0,0,1,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,6]
+ERROR: evaluating object as numeric value: mlp[0,0,1,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,7]
+ERROR: evaluating object as numeric value: mlp[0,0,1,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,8]
+ERROR: evaluating object as numeric value: mlp[0,0,1,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,9]
+ERROR: evaluating object as numeric value: mlp[0,0,1,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,10]
+ERROR: evaluating object as numeric value: mlp[0,0,1,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,11]
+ERROR: evaluating object as numeric value: mlp[0,0,1,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,12]
+ERROR: evaluating object as numeric value: mlp[0,0,1,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,13]
+ERROR: evaluating object as numeric value: mlp[0,0,1,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,14]
+ERROR: evaluating object as numeric value: mlp[0,0,1,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,15]
+ERROR: evaluating object as numeric value: mlp[0,0,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,0]
+ERROR: evaluating object as numeric value: mlp[0,0,2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,1]
+ERROR: evaluating object as numeric value: mlp[0,0,2,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,2]
+ERROR: evaluating object as numeric value: mlp[0,0,2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,3]
+ERROR: evaluating object as numeric value: mlp[0,0,2,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,4]
+ERROR: evaluating object as numeric value: mlp[0,0,2,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,5]
+ERROR: evaluating object as numeric value: mlp[0,0,2,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,6]
+ERROR: evaluating object as numeric value: mlp[0,0,2,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,7]
+ERROR: evaluating object as numeric value: mlp[0,0,2,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,8]
+ERROR: evaluating object as numeric value: mlp[0,0,2,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,9]
+ERROR: evaluating object as numeric value: mlp[0,0,2,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,10]
+ERROR: evaluating object as numeric value: mlp[0,0,2,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,11]
+ERROR: evaluating object as numeric value: mlp[0,0,2,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,12]
+ERROR: evaluating object as numeric value: mlp[0,0,2,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,13]
+ERROR: evaluating object as numeric value: mlp[0,0,2,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,14]
+ERROR: evaluating object as numeric value: mlp[0,0,2,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,2,15]
+ERROR: evaluating object as numeric value: mlp[0,0,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,0]
+ERROR: evaluating object as numeric value: mlp[0,0,3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,1]
+ERROR: evaluating object as numeric value: mlp[0,0,3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,2]
+ERROR: evaluating object as numeric value: mlp[0,0,3,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,3]
+ERROR: evaluating object as numeric value: mlp[0,0,3,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,4]
+ERROR: evaluating object as numeric value: mlp[0,0,3,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,5]
+ERROR: evaluating object as numeric value: mlp[0,0,3,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,6]
+ERROR: evaluating object as numeric value: mlp[0,0,3,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,7]
+ERROR: evaluating object as numeric value: mlp[0,0,3,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,8]
+ERROR: evaluating object as numeric value: mlp[0,0,3,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,9]
+ERROR: evaluating object as numeric value: mlp[0,0,3,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,10]
+ERROR: evaluating object as numeric value: mlp[0,0,3,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,11]
+ERROR: evaluating object as numeric value: mlp[0,0,3,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,12]
+ERROR: evaluating object as numeric value: mlp[0,0,3,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,13]
+ERROR: evaluating object as numeric value: mlp[0,0,3,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,14]
+ERROR: evaluating object as numeric value: mlp[0,0,3,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,3,15]
+ERROR: evaluating object as numeric value: mlp[0,1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,0]
+ERROR: evaluating object as numeric value: mlp[0,1,0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,1]
+ERROR: evaluating object as numeric value: mlp[0,1,0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,2]
+ERROR: evaluating object as numeric value: mlp[0,1,0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,3]
+ERROR: evaluating object as numeric value: mlp[0,1,0,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,4]
+ERROR: evaluating object as numeric value: mlp[0,1,0,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,5]
+ERROR: evaluating object as numeric value: mlp[0,1,0,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,6]
+ERROR: evaluating object as numeric value: mlp[0,1,0,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,7]
+ERROR: evaluating object as numeric value: mlp[0,1,0,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,8]
+ERROR: evaluating object as numeric value: mlp[0,1,0,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,9]
+ERROR: evaluating object as numeric value: mlp[0,1,0,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,10]
+ERROR: evaluating object as numeric value: mlp[0,1,0,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,11]
+ERROR: evaluating object as numeric value: mlp[0,1,0,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,12]
+ERROR: evaluating object as numeric value: mlp[0,1,0,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,13]
+ERROR: evaluating object as numeric value: mlp[0,1,0,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,14]
+ERROR: evaluating object as numeric value: mlp[0,1,0,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,15]
+ERROR: evaluating object as numeric value: mlp[0,1,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,0]
+ERROR: evaluating object as numeric value: mlp[0,1,2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,1]
+ERROR: evaluating object as numeric value: mlp[0,1,2,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,2]
+ERROR: evaluating object as numeric value: mlp[0,1,2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,3]
+ERROR: evaluating object as numeric value: mlp[0,1,2,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,4]
+ERROR: evaluating object as numeric value: mlp[0,1,2,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,5]
+ERROR: evaluating object as numeric value: mlp[0,1,2,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,6]
+ERROR: evaluating object as numeric value: mlp[0,1,2,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,7]
+ERROR: evaluating object as numeric value: mlp[0,1,2,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,8]
+ERROR: evaluating object as numeric value: mlp[0,1,2,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,9]
+ERROR: evaluating object as numeric value: mlp[0,1,2,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,10]
+ERROR: evaluating object as numeric value: mlp[0,1,2,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,11]
+ERROR: evaluating object as numeric value: mlp[0,1,2,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,12]
+ERROR: evaluating object as numeric value: mlp[0,1,2,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,13]
+ERROR: evaluating object as numeric value: mlp[0,1,2,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,14]
+ERROR: evaluating object as numeric value: mlp[0,1,2,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,2,15]
+ERROR: evaluating object as numeric value: mlp[0,1,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,0]
+ERROR: evaluating object as numeric value: mlp[0,1,3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,1]
+ERROR: evaluating object as numeric value: mlp[0,1,3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,2]
+ERROR: evaluating object as numeric value: mlp[0,1,3,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,3]
+ERROR: evaluating object as numeric value: mlp[0,1,3,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,4]
+ERROR: evaluating object as numeric value: mlp[0,1,3,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,5]
+ERROR: evaluating object as numeric value: mlp[0,1,3,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,6]
+ERROR: evaluating object as numeric value: mlp[0,1,3,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,7]
+ERROR: evaluating object as numeric value: mlp[0,1,3,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,8]
+ERROR: evaluating object as numeric value: mlp[0,1,3,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,9]
+ERROR: evaluating object as numeric value: mlp[0,1,3,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,10]
+ERROR: evaluating object as numeric value: mlp[0,1,3,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,11]
+ERROR: evaluating object as numeric value: mlp[0,1,3,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,12]
+ERROR: evaluating object as numeric value: mlp[0,1,3,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,13]
+ERROR: evaluating object as numeric value: mlp[0,1,3,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,14]
+ERROR: evaluating object as numeric value: mlp[0,1,3,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,3,15]
+ERROR: evaluating object as numeric value: mlp[0,2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,0]
+ERROR: evaluating object as numeric value: mlp[0,2,0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,1]
+ERROR: evaluating object as numeric value: mlp[0,2,0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,2]
+ERROR: evaluating object as numeric value: mlp[0,2,0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,3]
+ERROR: evaluating object as numeric value: mlp[0,2,0,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,4]
+ERROR: evaluating object as numeric value: mlp[0,2,0,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,5]
+ERROR: evaluating object as numeric value: mlp[0,2,0,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,6]
+ERROR: evaluating object as numeric value: mlp[0,2,0,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,7]
+ERROR: evaluating object as numeric value: mlp[0,2,0,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,8]
+ERROR: evaluating object as numeric value: mlp[0,2,0,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,9]
+ERROR: evaluating object as numeric value: mlp[0,2,0,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,10]
+ERROR: evaluating object as numeric value: mlp[0,2,0,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,11]
+ERROR: evaluating object as numeric value: mlp[0,2,0,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,12]
+ERROR: evaluating object as numeric value: mlp[0,2,0,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,13]
+ERROR: evaluating object as numeric value: mlp[0,2,0,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,14]
+ERROR: evaluating object as numeric value: mlp[0,2,0,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,15]
+ERROR: evaluating object as numeric value: mlp[0,2,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,0]
+ERROR: evaluating object as numeric value: mlp[0,2,1,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,1]
+ERROR: evaluating object as numeric value: mlp[0,2,1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,2]
+ERROR: evaluating object as numeric value: mlp[0,2,1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,3]
+ERROR: evaluating object as numeric value: mlp[0,2,1,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,4]
+ERROR: evaluating object as numeric value: mlp[0,2,1,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,5]
+ERROR: evaluating object as numeric value: mlp[0,2,1,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,6]
+ERROR: evaluating object as numeric value: mlp[0,2,1,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,7]
+ERROR: evaluating object as numeric value: mlp[0,2,1,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,8]
+ERROR: evaluating object as numeric value: mlp[0,2,1,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,9]
+ERROR: evaluating object as numeric value: mlp[0,2,1,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,10]
+ERROR: evaluating object as numeric value: mlp[0,2,1,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,11]
+ERROR: evaluating object as numeric value: mlp[0,2,1,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,12]
+ERROR: evaluating object as numeric value: mlp[0,2,1,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,13]
+ERROR: evaluating object as numeric value: mlp[0,2,1,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,14]
+ERROR: evaluating object as numeric value: mlp[0,2,1,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,1,15]
+ERROR: evaluating object as numeric value: mlp[0,2,3,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,0]
+ERROR: evaluating object as numeric value: mlp[0,2,3,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,1]
+ERROR: evaluating object as numeric value: mlp[0,2,3,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,2]
+ERROR: evaluating object as numeric value: mlp[0,2,3,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,3]
+ERROR: evaluating object as numeric value: mlp[0,2,3,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,4]
+ERROR: evaluating object as numeric value: mlp[0,2,3,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,5]
+ERROR: evaluating object as numeric value: mlp[0,2,3,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,6]
+ERROR: evaluating object as numeric value: mlp[0,2,3,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,7]
+ERROR: evaluating object as numeric value: mlp[0,2,3,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,8]
+ERROR: evaluating object as numeric value: mlp[0,2,3,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,9]
+ERROR: evaluating object as numeric value: mlp[0,2,3,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,10]
+ERROR: evaluating object as numeric value: mlp[0,2,3,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,11]
+ERROR: evaluating object as numeric value: mlp[0,2,3,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,12]
+ERROR: evaluating object as numeric value: mlp[0,2,3,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,13]
+ERROR: evaluating object as numeric value: mlp[0,2,3,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,14]
+ERROR: evaluating object as numeric value: mlp[0,2,3,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,3,15]
+ERROR: evaluating object as numeric value: mlp[0,3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,0]
+ERROR: evaluating object as numeric value: mlp[0,3,0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,1]
+ERROR: evaluating object as numeric value: mlp[0,3,0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,2]
+ERROR: evaluating object as numeric value: mlp[0,3,0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,3]
+ERROR: evaluating object as numeric value: mlp[0,3,0,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,4]
+ERROR: evaluating object as numeric value: mlp[0,3,0,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,5]
+ERROR: evaluating object as numeric value: mlp[0,3,0,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,6]
+ERROR: evaluating object as numeric value: mlp[0,3,0,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,7]
+ERROR: evaluating object as numeric value: mlp[0,3,0,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,8]
+ERROR: evaluating object as numeric value: mlp[0,3,0,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,9]
+ERROR: evaluating object as numeric value: mlp[0,3,0,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,10]
+ERROR: evaluating object as numeric value: mlp[0,3,0,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,11]
+ERROR: evaluating object as numeric value: mlp[0,3,0,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,12]
+ERROR: evaluating object as numeric value: mlp[0,3,0,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,13]
+ERROR: evaluating object as numeric value: mlp[0,3,0,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,14]
+ERROR: evaluating object as numeric value: mlp[0,3,0,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,15]
+ERROR: evaluating object as numeric value: mlp[0,3,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,0]
+ERROR: evaluating object as numeric value: mlp[0,3,1,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,1]
+ERROR: evaluating object as numeric value: mlp[0,3,1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,2]
+ERROR: evaluating object as numeric value: mlp[0,3,1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,3]
+ERROR: evaluating object as numeric value: mlp[0,3,1,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,4]
+ERROR: evaluating object as numeric value: mlp[0,3,1,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,5]
+ERROR: evaluating object as numeric value: mlp[0,3,1,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,6]
+ERROR: evaluating object as numeric value: mlp[0,3,1,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,7]
+ERROR: evaluating object as numeric value: mlp[0,3,1,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,8]
+ERROR: evaluating object as numeric value: mlp[0,3,1,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,9]
+ERROR: evaluating object as numeric value: mlp[0,3,1,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,10]
+ERROR: evaluating object as numeric value: mlp[0,3,1,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,11]
+ERROR: evaluating object as numeric value: mlp[0,3,1,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,12]
+ERROR: evaluating object as numeric value: mlp[0,3,1,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,13]
+ERROR: evaluating object as numeric value: mlp[0,3,1,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,14]
+ERROR: evaluating object as numeric value: mlp[0,3,1,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,1,15]
+ERROR: evaluating object as numeric value: mlp[0,3,2,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,0]
+ERROR: evaluating object as numeric value: mlp[0,3,2,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,1]
+ERROR: evaluating object as numeric value: mlp[0,3,2,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,2]
+ERROR: evaluating object as numeric value: mlp[0,3,2,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,3]
+ERROR: evaluating object as numeric value: mlp[0,3,2,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,4]
+ERROR: evaluating object as numeric value: mlp[0,3,2,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,5]
+ERROR: evaluating object as numeric value: mlp[0,3,2,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,6]
+ERROR: evaluating object as numeric value: mlp[0,3,2,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,7]
+ERROR: evaluating object as numeric value: mlp[0,3,2,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,8]
+ERROR: evaluating object as numeric value: mlp[0,3,2,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,9]
+ERROR: evaluating object as numeric value: mlp[0,3,2,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,10]
+ERROR: evaluating object as numeric value: mlp[0,3,2,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,11]
+ERROR: evaluating object as numeric value: mlp[0,3,2,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,12]
+ERROR: evaluating object as numeric value: mlp[0,3,2,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,13]
+ERROR: evaluating object as numeric value: mlp[0,3,2,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,14]
+ERROR: evaluating object as numeric value: mlp[0,3,2,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,2,15]
+ERROR: evaluating object as numeric value: mlp[0,0,1,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,0]
+ERROR: evaluating object as numeric value: mlp[0,0,1,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,1]
+ERROR: evaluating object as numeric value: mlp[0,0,1,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,2]
+ERROR: evaluating object as numeric value: mlp[0,0,1,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,3]
+ERROR: evaluating object as numeric value: mlp[0,0,1,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,4]
+ERROR: evaluating object as numeric value: mlp[0,0,1,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,5]
+ERROR: evaluating object as numeric value: mlp[0,0,1,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,6]
+ERROR: evaluating object as numeric value: mlp[0,0,1,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,7]
+ERROR: evaluating object as numeric value: mlp[0,0,1,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,8]
+ERROR: evaluating object as numeric value: mlp[0,0,1,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,9]
+ERROR: evaluating object as numeric value: mlp[0,0,1,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,10]
+ERROR: evaluating object as numeric value: mlp[0,0,1,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,11]
+ERROR: evaluating object as numeric value: mlp[0,0,1,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,12]
+ERROR: evaluating object as numeric value: mlp[0,0,1,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,13]
+ERROR: evaluating object as numeric value: mlp[0,0,1,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,14]
+ERROR: evaluating object as numeric value: mlp[0,0,1,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,0,1,15]
+ERROR: evaluating object as numeric value: mlp[0,1,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,0]
+ERROR: evaluating object as numeric value: mlp[0,1,0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,1]
+ERROR: evaluating object as numeric value: mlp[0,1,0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,2]
+ERROR: evaluating object as numeric value: mlp[0,1,0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,3]
+ERROR: evaluating object as numeric value: mlp[0,1,0,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,4]
+ERROR: evaluating object as numeric value: mlp[0,1,0,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,5]
+ERROR: evaluating object as numeric value: mlp[0,1,0,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,6]
+ERROR: evaluating object as numeric value: mlp[0,1,0,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,7]
+ERROR: evaluating object as numeric value: mlp[0,1,0,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,8]
+ERROR: evaluating object as numeric value: mlp[0,1,0,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,9]
+ERROR: evaluating object as numeric value: mlp[0,1,0,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,10]
+ERROR: evaluating object as numeric value: mlp[0,1,0,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,11]
+ERROR: evaluating object as numeric value: mlp[0,1,0,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,12]
+ERROR: evaluating object as numeric value: mlp[0,1,0,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,13]
+ERROR: evaluating object as numeric value: mlp[0,1,0,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,14]
+ERROR: evaluating object as numeric value: mlp[0,1,0,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,1,0,15]
+ERROR: evaluating object as numeric value: mlp[0,2,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,0]
+ERROR: evaluating object as numeric value: mlp[0,2,0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,1]
+ERROR: evaluating object as numeric value: mlp[0,2,0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,2]
+ERROR: evaluating object as numeric value: mlp[0,2,0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,3]
+ERROR: evaluating object as numeric value: mlp[0,2,0,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,4]
+ERROR: evaluating object as numeric value: mlp[0,2,0,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,5]
+ERROR: evaluating object as numeric value: mlp[0,2,0,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,6]
+ERROR: evaluating object as numeric value: mlp[0,2,0,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,7]
+ERROR: evaluating object as numeric value: mlp[0,2,0,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,8]
+ERROR: evaluating object as numeric value: mlp[0,2,0,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,9]
+ERROR: evaluating object as numeric value: mlp[0,2,0,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,10]
+ERROR: evaluating object as numeric value: mlp[0,2,0,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,11]
+ERROR: evaluating object as numeric value: mlp[0,2,0,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,12]
+ERROR: evaluating object as numeric value: mlp[0,2,0,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,13]
+ERROR: evaluating object as numeric value: mlp[0,2,0,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,14]
+ERROR: evaluating object as numeric value: mlp[0,2,0,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,2,0,15]
+ERROR: evaluating object as numeric value: mlp[0,3,0,0]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,0]
+ERROR: evaluating object as numeric value: mlp[0,3,0,1]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,1]
+ERROR: evaluating object as numeric value: mlp[0,3,0,2]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,2]
+ERROR: evaluating object as numeric value: mlp[0,3,0,3]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,3]
+ERROR: evaluating object as numeric value: mlp[0,3,0,4]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,4]
+ERROR: evaluating object as numeric value: mlp[0,3,0,5]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,5]
+ERROR: evaluating object as numeric value: mlp[0,3,0,6]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,6]
+ERROR: evaluating object as numeric value: mlp[0,3,0,7]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,7]
+ERROR: evaluating object as numeric value: mlp[0,3,0,8]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,8]
+ERROR: evaluating object as numeric value: mlp[0,3,0,9]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,9]
+ERROR: evaluating object as numeric value: mlp[0,3,0,10]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,10]
+ERROR: evaluating object as numeric value: mlp[0,3,0,11]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,11]
+ERROR: evaluating object as numeric value: mlp[0,3,0,12]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,12]
+ERROR: evaluating object as numeric value: mlp[0,3,0,13]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,13]
+ERROR: evaluating object as numeric value: mlp[0,3,0,14]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,14]
+ERROR: evaluating object as numeric value: mlp[0,3,0,15]
+        (object: <class 'pyomo.core.base.var._GeneralVarData'>)
+    No value for uninitialized NumericValue object mlp[0,3,0,15]
